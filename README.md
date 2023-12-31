@@ -1,2 +1,2 @@
-# microservice-learning-durgesh-config-server
+# Microservice-learning-config-server
 This is configuration project for microservice learning project
